@@ -1,0 +1,5 @@
+{
+  "dataset_file": "../dataset/train.json",
+  "dump_location": "./model_output",
+  "num_process": 4
+}
